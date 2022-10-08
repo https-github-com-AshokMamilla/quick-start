@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70cc46d9-177e-47aa-89b0-b15969524c06" name="Changes" comment="quick-start first commit">
+    <list default="true" id="70cc46d9-177e-47aa-89b0-b15969524c06" name="Changes" comment="quick-start Second commit">
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="quick-start first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="quick-start first commit" />
+    <MESSAGE value="quick-start Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick-start Second commit" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
