@@ -25,5 +25,6 @@ func main() {
 	//fmt	.Print("value of c")
 	fmt.Print("value of c=", c)
 	//fmt.Scan(&c)
+// 	ashok commented this line
 	//fmt.Scan(&c)
 }
